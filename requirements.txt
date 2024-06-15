@@ -1,0 +1,15 @@
+streamlit
+streamlit_chat
+streamlit_option_menu
+langchain
+langchain_community
+langchain_huggingface
+huggingface_hub
+pandas
+torch
+transformers
+ctransformers
+sentence_transformers
+faiss_cpu
+matplotlib
+seaborn
